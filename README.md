@@ -7,9 +7,17 @@ A modern fully functional real estate app built with MongoDB, Express.js, React,
 - Authentication to check for both email and password auth for a seemless login experience.
 - Deployed live with an up to date version for showcase.
 
-##Screenshots
+## Home Page
 ![Home Page](https://github.com/justinhibb97/mern-estate/assets/34048736/2415659a-7d3a-4d17-906c-174e198824f5)
+
+## Search Listings
 ![Search Feature](https://github.com/justinhibb97/mern-estate/assets/34048736/f2b55b19-3d64-46c7-a1ad-f795ec4d23c4)
+
+## Update Profile
 ![Update Profile](https://github.com/justinhibb97/mern-estate/assets/34048736/3f2901ee-885a-4dc7-9bc7-859119c7484b)
+
+## Create Listings
 ![Create Listings](https://github.com/justinhibb97/mern-estate/assets/34048736/1be11ab5-6b84-4f5b-9083-1df90a453839)
+
+## Sign Up
 ![Create Account](https://github.com/justinhibb97/mern-estate/assets/34048736/3fe95619-ed12-425c-8d98-ffacf95f3130)
