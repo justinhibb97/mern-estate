@@ -21,3 +21,6 @@ A modern fully functional real estate app built with MongoDB, Express.js, React,
 
 ## Sign Up
 ![Create Account](https://github.com/justinhibb97/mern-estate/assets/34048736/3fe95619-ed12-425c-8d98-ffacf95f3130)
+
+## View Listings
+![View Listings](https://github.com/justinhibb97/mern-estate/assets/34048736/a89a4f60-4b81-48d2-85b3-eef916cfc397)
