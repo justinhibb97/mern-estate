@@ -34,6 +34,15 @@ jobs:
       env:
         USER_EMAIL: ${{ secrets.USER_EMAIL }}
         USER_PASSWORD: ${{ secrets.USER_PASSWORD }}
+        MONGO: ${{ secrets.MONGO }}
+        MONGODB_NAME: ${{ secrets.MONGO }}
+        MONGODB_LISTINGNAME: ${{ secrets.MONGO }}
+        MONGODB_LISTINGVALUE: ${{ secrets.MONGO }}
+        MONGODB_USERNAME: ${{ secrets.MONGO }}
+        MONGODB_EMAIL: ${{ secrets.MONGO }}
+        MONGODB_PASSWORD: ${{ secrets.MONGO }}
+        MONGODB_COLLECTION1: ${{ secrets.MONGO }}
+        MONGODB_COLLECTION2: ${{ secrets.MONGO }}
       run: |
         cd PlaywrightAutomation
         npx playwright test
