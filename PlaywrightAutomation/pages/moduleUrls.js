@@ -10,4 +10,11 @@ const URLS = {
     CREATELISTING_PAGE: `${BASE_URL}/create-listing`,
 };
 
-module.exports = { URLS };
+const APIS = {
+    SIGNIN_ROUTE: `${BASE_URL}/api/auth/signin`,
+    SIGNOUT_ROUTE: `${BASE_URL}/api/auth/signout`,
+    LISTINGALL_ROUTE: `${BASE_URL}/api/listing/get?`,
+    LISTINGSPECIFIC_ROUTE: `${BASE_URL}/api/listing/get?searchTerm=test`,
+};
+
+module.exports = { URLS, APIS};
